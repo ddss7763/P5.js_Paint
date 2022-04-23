@@ -4,7 +4,7 @@
 
 let defaultTime = 0.0012; // large = quick dry
 let runnyColors = false;
-let backgrd = 0; // 255 white; 0 black
+let backgrd = 255; // 255 white; 0 black
 let smallCanvas = true;
 let state;
 dryTime = defaultTime;
